@@ -1,6 +1,6 @@
 export default function Main() {
   return (
-    <section className="main">
+    <main className="main">
       <h1>Fun facts about React</h1>
       <ul>
         <li>
@@ -21,6 +21,6 @@ export default function Main() {
           </span>
         </li>
       </ul>
-    </section>
+    </main>
   );
 }
